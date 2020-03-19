@@ -16,7 +16,7 @@
 
 ## How to test
 - Import and run `Whewigo` through Android studio.
-  - or Download [whewigo.apk](https://github.com/true-bird/Whewigo/app/release/whewigo.apk) file to your mobile phone.
+  - or Download and install [whewigo.apk](https://github.com/true-bird/Whewigo/blob/master/app/release/whewigo.apk) file to your mobile phone.
 
 ## Installation
 - `Whewigo` import to Android studio.

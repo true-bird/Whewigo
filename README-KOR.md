@@ -16,7 +16,7 @@
 
 ## 테스트
 - 안드로이드 스튜디오에 `Whewigo`를 import 하여 실행
-  - 또는 [whewigo.apk](https://github.com/true-bird/Whewigo/app/release/whewigo.apk) 파일을 휴대폰에 다운로드
+  - 또는 [whewigo.apk](https://github.com/true-bird/Whewigo/blob/master/app/release/whewigo.apk) 파일을 휴대폰에 다운로드 후 설치
 
 ## 설치
 - 안드로이드 스튜디오에 `Whewigo` import
